@@ -7,8 +7,11 @@ Makokolor restores old, faded, or damaged photos directly on your device — no 
 **NOTE: This app runs as a completely offline project. The AI models will download to the device on first run. These models are quite large and processor-heavy. Do not attempt to run these on older devices. Having said that, I assume no responsibility if you overheat or damage your device by using this project. This project does build and run, but it is currently in an Alpha State.**
 
 
-BEFORE<img alt="makokolor_before_testimage" src="https://github.com/user-attachments/assets/da7e334a-2332-4107-b46c-2ad100b87185" width="400">
-AFTER<img alt="makokolor_AFTER" src="https://github.com/user-attachments/assets/5dbfbbbb-94f3-4bdc-99a4-23f873487cbf" width="400">
+BEFORE<br>
+<img alt="makokolor_before_testimage" src="https://github.com/user-attachments/assets/da7e334a-2332-4107-b46c-2ad100b87185" width="400">
+
+AFTER<br>
+<img alt="makokolor_AFTER" src="https://github.com/user-attachments/assets/5dbfbbbb-94f3-4bdc-99a4-23f873487cbf" width="400">
 
 Testing was done on a Samsung Galaxy S24
 
