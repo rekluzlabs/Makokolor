@@ -35,7 +35,7 @@ INPUT → SCUnet (denoise/deblur) → Real-ESRGAN x4 (upscale) → CodeFormer (f
 ## Requirements
 * Android 34+ recommended but may work on older versions.
 * ~800MB free storage for models
-* Wi-Fi recommended for initial setup download
+* Wi-Fi for initial setup download
 
 ## Models
 Downloaded once on first launch from project releases / model hubs:
