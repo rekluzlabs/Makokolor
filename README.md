@@ -33,7 +33,7 @@ INPUT → SCUnet (denoise/deblur) → Real-ESRGAN x4 (upscale) → CodeFormer (f
 * **Direct Asset Streaming** — efficient one-time model downloads directly into app sandbox storage.
 
 ## Requirements
-* Android 9+ (API 28)
+* Android 34+ recommended but may work on older versions.
 * ~800MB free storage for models
 * Wi-Fi recommended for initial setup download
 
