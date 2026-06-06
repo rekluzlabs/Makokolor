@@ -4,7 +4,7 @@
 AI-powered photo restoration & enhancement for Android. 
 Makokolor restores old, faded, or damaged photos directly on your device — no cloud needed. It upscales resolution, removes noise/artifacts, restores faces, and colorizes black-and-white images using on-device ONNX models.
 
-**NOTE: This app runs as a completely offline project. The AI models will download to the device on first run. These models are quite large and processor-heavy. Do not attempt to run these on older devices. Having said that, I assume no responsibility if you overheat or damage your device by using this project. This project does build and run, but it is currently in an Alpha State.**
+**NOTE: Source code file links are deprecated as the host has been changed to Hugging face. I will update this page soon once I return to working on this project.  This project does build and run with the proper links, but it is currently in an Alpha State.**
 
 
 BEFORE<br>
