@@ -1,5 +1,6 @@
 # Makokolor
 
+# Please note: This app is no longer being developed. The app has been redesigned and is now live on the Google Playstore. It is still free to download and does not contain any ads or IAP nor subscriptions. ([Download link](https://play.google.com/store/apps/details?id=com.rekluzlabs.makorevive ))
 
 AI-powered photo restoration & enhancement for Android. 
 Makokolor restores old, faded, or damaged photos directly on your device — no cloud needed. It upscales resolution, removes noise/artifacts, restores faces, and colorizes black-and-white images using on-device ONNX models.
